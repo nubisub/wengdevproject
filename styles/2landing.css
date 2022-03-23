@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+*{
+	/* border: solid; */
+}
+img {
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+	user-drag: none;
+}
+main {
+	color: #151A1E;
+	box-sizing: border-box;
+	padding-left: 7vw;
+	padding-right: 7vw;
+	display: flex;
+	backround-color: black;
+	align-items: center;
+	justify-content: space-between;
+	height: 88vh;
+}
+main h1 {
+	margin: 0;
+	margin-top: 10vh;
+}
+.desc h1 {
+	line-height: 1.1em;
+	font-weight: 700;
+	font-size: 64px;
+}
+.desc p {
+	font-size: 1.4em;
+	font-weight: 400;
+	color: #151A1E;
+
+}
+.desc {
+	font-weight: 600;
+	margin-top: -15vh;
+	margin-right: 10vw;
+	font-weight: 400;
+	max-width: 55%;
+}
+.btn-main{
+	margin-top: 4vh;
+}
+.btn-main :nth-child(1) {
+	margin-right: 1vw;
+}
+.btn-main button {
+	font-family: inherit;
+	color: #f5f5f5;
+	font-weight: 600;
+	font-size: 1em;
+	background:  #03b473;
+	border: none;
+	padding: 1em 2em;
+	border-radius: 0.4rem;
+	cursor: pointer;
+	outline: inherit;
+	transition: all 0.2s;
+	border: solid 2px #03b473 ;
+}
+.btn-main button:hover {
+	color: white;
+	background: #058657ef ;
+	border-color:  #058657ef ;
+}
+.btn-main :nth-child(2) {
+	background: transparent;
+	color: #03b473;
+	border: solid #03b473 2px ;
+	box-sizing: border-box;
+	outline: #03b473;
+	transition: all .4s;
+}
+.btn-main :nth-child(2):hover {
+	color: white;
+	background: #058657ef ;
+	border-color:  #058657ef ;
+}
+.btn-main .arrow{
+	margin-left: .3vw;
+	margin-top: -0.5vh;
+	margin-right: 0;
+}
+.food {
+	margin-top: -10vh;
+	max-width: 100%;
+}
+.card h4 {
+	margin: 0;
+	margin-left	: 1vw;
+}
+.card {
+	position: absolute;
+	max-width: 170px;
+	height: 100px;
+	top: 60vh;
+	left: 55vw;
+	padding: 1em;
+	flex-direction: column;
+	min-width: 1em;
+	min-height: 9em;
+	overflow: hidden;
+	border-radius: 0.5em;
+	text-decoration: none;
+	background: white;
+	box-shadow: -27px 10px 143px -35px rgba(130, 130, 130, 0.75);
+	-webkit-box-shadow: -27px 10px 143px -35px rgba(130, 130, 130, 0.75);
+	-moz-box-shadow: -27px 10px 143px -35px rgba(130, 130, 130, 0.75);
+}
+.card img {
+	border-radius: 50%;
+	border: solid 1px #ccc;
+}
+.image-header {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
