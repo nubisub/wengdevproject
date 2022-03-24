@@ -5,17 +5,17 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Document</title>
-		<link rel="stylesheet" href="styles/0body.css">
-		<link rel="stylesheet" href="styles/1navbar.css">
-		<link rel="stylesheet" href="styles/2landing.css">
-		<link rel="stylesheet" href="styles/3wilayah.css">
+
+		<link rel="stylesheet" href="styles/1navbar.css" />
+		<link rel="stylesheet" href="styles/2landing.css" />
+		<link rel="stylesheet" href="styles/3wilayah.css" />
+		<link rel="stylesheet" href="styles/0body.css" />
 		<script
 			src="https://kit.fontawesome.com/ce7e8f63ad.js"
 			crossorigin="anonymous"
 		></script>
 	</head>
 	<body>
-
 		<nav id="navbar">
 			<!-- Logo/Homepage -->
 			<div class="home">
@@ -27,7 +27,7 @@
 			<div class="menu">
 				<ul>
 					<li class="dropdown">
-						<a href="#">Recipes</a>
+						<a class="recipes" href="#">Recipes <i class="fa-solid fa-angle-down fa-xs	"></i>	 </a>
 						<div class="dropdown-content">
 							<a href="#">Easter</a>
 							<a href="#">Family Dinners</a>
@@ -49,7 +49,7 @@
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
 							viewBox="0 0 512 512"
-							style="width: 1em"
+							style="width:1em"
 						>
 							<!--! Font Awesome Pro 6.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
 							<path
@@ -70,7 +70,7 @@
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
 							viewBox="0 0 512 512"
-							style="width: 2em"
+							style="width: 2.2em"
 						>
 							<!--! Font Awesome Pro 6.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
 							<path
@@ -90,47 +90,62 @@
 				</div>
 			</div>
 		</nav>
-		
-		<main class="landing">
-			<div class="desc">
-				<h1>Let's start cooking with our recipes</h1>
-				<p>
-					Want to learn cook but confused how to start? <br> No need to worry again! we have collected various recipes for you to learn.
-				</p>
-				<div class="btn-main">
-					<button>Explore Menu</button>
-					<button>Write Recipe
-						<i class="arrow fa-solid fa-arrow-right"></i>
-					</button>
-				</div>
-			</div>
-			<div class="dua">
-				<img class="food" src="images/1mainfood.png" alt="" width="500" />
-			</div>
 
-			<div class="card">
-				<div class="image-header">
-					<img src="images/2secfood.png" alt="" width="40" />
-					<h4>Bread Berry</h4>
+		<main class="landing">
+			<div class="content">
+				<div class="desc">
+					<h1>Let's start cooking with our recipes</h1>
+					<p>
+						Want to learn cook but confused how to start? <br />
+						No need to worry again! we have collected various recipes for you to
+						learn.
+					</p>
+					<div class="btn-main">
+						<button>Explore Menu</button>
+						<button>
+							Write Recipe
+							<i class="arrow fa-solid fa-arrow-right"></i>
+						</button>
+					</div>
 				</div>
-				<p>Bread, Strawberry, Jam, Blueberry, Raspberry</p>
+				<div class="dua">
+					<img class="food" src="images/1mainfood.png" alt="" width="430" />
+				</div>
+
+				<div class="card">
+					<div class="image-header">
+						<img src="images/2secfood.png" alt="" width="44" />
+						<h4>Bread Berry</h4>
+					</div>
+					<p>Bread, Strawberry, Jam, Blueberry, Raspberry</p>
+				</div>
 			</div>
 		</main>
 
-		<div class="wilayah">
- <div class="wrapper">
-    <div class="clash-card barbarian">
-      <div class="clash-card__image clash-card__image--barbarian">
-      </div>
+		<div class="secmain">
+			<div class="wilayah">
+				<h1>Inspiration for your next dish</h1>
+				<div class="wrapper">
+					<div class="clash-card">
+						<div class="minang"></div>
+						<div class="name">Minang</div>
+					</div>
+					<div class="clash-card">
+						<div class="minang java"></div>
+						<div class="name">Minang</div>
+					</div>
+					<div class="clash-card">
+						<div class="minang sate"></div>
+						<div class="name">Minang</div>
+					</div>
+					<div class="clash-card">
+						<div class="minang"></div>
+						<div class="name">Minang</div>
+					</div>
 
-      <div class="clash-card__unit-name">Minang</div>
-
-
-
-      </div>
-
-    </div> <!-- end clash-card barbarian-->
-  </div> <!-- end wrapper -->
+				</div>
 			</div>
+		</div>
+
 	</body>
 </html>
