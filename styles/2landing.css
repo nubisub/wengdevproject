@@ -53,9 +53,10 @@ main .content .desc h1 {
 	margin-top: 4vh;
 }
 .btn-main :nth-child(1) {
-	/* margin-right: 1vw; */
+	margin-right: .5vw;
 }
-.btn-main button {
+.btn-main a {
+	text-decoration: none;
 	font-family: inherit;
 	color: #f5f5f5;
 	font-weight: 600;
@@ -63,13 +64,13 @@ main .content .desc h1 {
 	background: #03b473;
 	border: none;
 	padding: 1em 2em;
-	border-radius: 0.4rem;
+	border-radius: .4em;
 	cursor: pointer;
 	outline: inherit;
 	transition: all 0.2s;
 	border: solid 2px #03b473;
 }
-.btn-main button:hover {
+.btn-main a:hover {
 	color: white;
 	background: #058657ef;
 	border-color: #058657ef;
