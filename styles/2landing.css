@@ -1,6 +1,22 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+:root {
+	--mainwhite: #fefefe;
+	--greenbutton: #03b473;
+	--greenbuttonhover: #039b6d;
+	--texthover: #ffffff;
+	--textbutton: #f5f5f5;
+	--cardwhite: #ffffff;
+	--cardborder: #ccc;
+	--blacktextcolor: #151a1e;
+	--searchbar: #f5f5f5;
+	--bordersearch: #a19c9c;
+	--bgdropdown: #ffffff;
+	--borderdropdown: #dfdfdf;
+	--texthoverdropdown: #4b5563;
+	--borderhoverdropdown: #f3f4f6;
+	--dropdownhr: #f5f1f1;
+}
 * {
-	/* border: solid 1px; */
+	/* border: solid; */
 	box-sizing: border-box;
 }
 img {
@@ -16,21 +32,18 @@ main {
 	margin-left: auto;
 	height: 88vh;
 	max-height: 530px;
-	/* max-height: 768px; */
+	background-color: var(--mainwhite);
 }
-.content {
+main .content {
 	margin-top: 50px;
-
-	color: #151a1e;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 	margin-right: 100px;
 	margin-left: 100px;
 }
-main .content .desc h1 {
+.content .desc h1 {
 	margin: 0;
-	/* margin-top: 10vh; */
 }
 .desc h1 {
 	line-height: 1.1em;
@@ -40,58 +53,61 @@ main .content .desc h1 {
 .desc p {
 	font-size: 1.4em;
 	font-weight: 400;
-	color: #151a1e;
+	color: var(--blacktextcolor);
 }
 .desc {
 	font-weight: 600;
-	/* margin-top: -15vh; */
-	/* margin-right: 10vw; */
 	font-weight: 400;
 	max-width: 55%;
 }
 .btn-main {
-	margin-top: 4vh;
+	margin-top: 6vh;
 }
 .btn-main :nth-child(1) {
-	margin-right: .5vw;
+	margin-right: 0.5vw;
 }
 .btn-main a {
 	text-decoration: none;
 	font-family: inherit;
-	color: #f5f5f5;
+	color: var(--textbutton);
 	font-weight: 600;
 	font-size: 1em;
-	background: #03b473;
+	background: var(--greenbutton);
 	border: none;
 	padding: 1em 2em;
-	border-radius: .4em;
+	border-radius: 0.4em;
 	cursor: pointer;
 	outline: inherit;
-	transition: all 0.2s;
-	border: solid 2px #03b473;
+	transition: all 0.4s;
+	border: solid 2px var(--greenbutton);
 }
 .btn-main a:hover {
-	color: white;
-	background: #058657ef;
-	border-color: #058657ef;
+	color: var(--texthover);
+	background: var(--greenbuttonhover);
+	border-color: var(--greenbuttonhover);
 }
 .btn-main :nth-child(2) {
 	background: transparent;
-	color: #03b473;
-	border: solid #03b473 2px;
+	color: var(--greenbutton);
+	border: solid var(--greenbutton) 2px;
 	box-sizing: border-box;
-	outline: #03b473;
+	outline: var(--greenbutton);
 	transition: all 0.4s;
 }
 .btn-main :nth-child(2):hover {
-	color: white;
-	background: #058657ef;
-	border-color: #058657ef;
+	color: var(--texthover);
+	background: var(--greenbuttonhover);
+	border-color: var(--greenbuttonhover);
 }
-.btn-main .arrow {
+.btn-main :nth-child(2):hover svg {
+	fill: var(--texthover);
+}
+
+.btn-main .rightarrow {
+	width: 0.8rem;
+	fill: var(--greenbutton);
 	margin-left: 4px;
-	/* margin-top: -0.5vh; */
-	margin-right: 0;
+	transition: all 0.4s;
 }
 .food {
 	max-width: 100%;
@@ -100,13 +116,6 @@ main .content .desc h1 {
 	margin: 0;
 	margin-left: 1vw;
 }
-/* media quARIES */
-@media screen and (max-width: 768px) {
-	.card{
-		display: none;
-	}
-}
-
 
 .card {
 	top: 440px;
@@ -119,14 +128,24 @@ main .content .desc h1 {
 	overflow: hidden;
 	border-radius: 0.3em;
 	text-decoration: none;
-	background: white;
+	background: var(--cardwhite);
 	box-shadow: -21px 11px 73px -8px rgba(97, 97, 97, 0.33);
 	-webkit-box-shadow: -21px 11px 73px -8px rgba(97, 97, 97, 0.33);
 	-moz-box-shadow: -21px 11px 73px -8px rgba(97, 97, 97, 0.33);
 }
 .card img {
 	border-radius: 50%;
-	border: solid 1px #ccc;
+	border: solid 1px var(--cardborder);
+}
+@media screen and (max-width: 1200px) {
+	.card {
+		display: none;
+	}
+}
+@media screen and (min-width: 1400px) {
+	.card {
+		display: none;
+	}
 }
 .image-header {
 	display: flex;
