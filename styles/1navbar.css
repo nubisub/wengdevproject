@@ -21,6 +21,9 @@
 .navbarwrapper {
 	width: 100%;
 	background: var(--mainwhite);
+	position: sticky;
+	top: 0;
+	z-index: 999;
 }
 #navbar {
 	color: var(--blacktextcolor);
@@ -29,13 +32,13 @@
 	padding-bottom: 4px;sans-serif;
 	font-weight: 600;
 	width: 100%;
-	position: sticky;
+	/* position: sticky; */
 	display: flex;
 	top: 0;
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: space-between;
-	z-index: 999;
+	z-index: 99;
 	padding-left: 100px;
 	padding-right: 100px;
 	box-sizing: border-box;
