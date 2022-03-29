@@ -5,9 +5,11 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>CookFood: Tulis Resep</title>
-		<link rel="stylesheet" href="../styles/1navbar.css" />
 		<link rel="stylesheet" href="../styles/0body.css" />
 		<link rel="stylesheet" href="../styles/4form.css" />
+		<link rel="stylesheet" href="../styles/1navbar.css" />
+
+		<script src="../script/create.js"></script>
 	</head>
 	<body>
 		<div class="navbarwrapper">
@@ -22,7 +24,7 @@
 				<div class="menu">
 					<ul>
 						<li class="dropdown">
-							<a class="recipes" href="#"
+							<a class="recipes" href="/recipe/index.html"
 								>Recipes
 								<svg
 									class="dropicon"
@@ -90,10 +92,10 @@
 							</svg>
 						</a>
 						<div class="dropdown-content">
-							<a href="#">Sign Up</a>
-							<a href="#">Log in</a>
+							<a href="/users/sign_up/index.html">Sign Up</a>
+							<a href="/users/sign_in/index.html">Log in</a>
 							<hr />
-							<a href="#">Tulis Resep</a>
+							<a href="/create/index.html">Tulis Resep</a>
 							<hr />
 							<a href="#">Contact Us</a>
 							<a href="#">Help</a>
@@ -202,26 +204,32 @@
 					/>
 				</div>
 
-				<div class="form">
-					<label for="bahan">Bahan-bahan</label>
-					<input
-						name="bahan"
-						id="bahan"
-						type="text"
-						class="control"
-						placeholder="1Kg Ayam Kampung"
-					/>
-				</div>
+				<div class="bahan">
+					<div class="form">
+						<label for="bahan">Bahan-bahan</label>
+						<input
+							name="bahan"
+							id="bahan"
+							type="text"
+							class="control"
+							placeholder="1Kg Ayam Kampung"
+						/>
+					</div>
 
-				<div class="form">
-					<label for="bahan2"></label>
-					<input
-						name="bahan2"
-						id="bahan2"
-						type="text"
-						class="control"
-						placeholder="Bahan berikutnya..."
-					/>
+					<div class="form">
+						<label for="bahan2"></label>
+						<input
+							name="bahan2"
+							id="bahan2"
+							type="text"
+							class="control"
+							placeholder="Bahan berikutnya..."
+						/>
+					</div>
+				</div>
+				<div>
+					<button type="button" onclick="tambah()">Add</button>
+					<button type = "button" onclick="kurang()">Remove</button>
 				</div>
 
 				<div class="form">

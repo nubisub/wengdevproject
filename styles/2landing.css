@@ -75,7 +75,7 @@ main .content {
 	background: var(--greenbutton);
 	border: none;
 	padding: 1em 2em;
-	border-radius: 0.4em;
+	border-radius: 0.3em;
 	cursor: pointer;
 	outline: inherit;
 	transition: all 0.4s;
