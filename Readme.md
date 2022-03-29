@@ -28,6 +28,7 @@ Menu tersedia:
 
 - font: https://fonts.google.com/
 - icon: https://fontawesome.com/
+- favicon : https://favicon.io/favicon-converter/
 
 ## Tools untuk mendesign
 
