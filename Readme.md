@@ -1,15 +1,15 @@
 # Recipe App
 
-Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh para pengguna.
+Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh pengguna.
 
-Awal mula untuk memutuskan website ini karena tidak sengaja melihat youtube recomendation https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd, akan tetapi dalam tutorial tersebut membuat website dengan reactJS sehigga saya memutuskan untuk membuat website ini dari 0 dan hanya dengan html, css, dan javascript.
+Awal mula untuk memutuskan website ini karena tidak sengaja melihat youtube recomendation https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd, tetapi dalam tutorial tersebut menggunakan reactJS sehigga saya memutuskan untuk membuat website hanya dengan html, css, dan javascript.
 
 Menu tersedia:
 
-- Home Page
-- Login & Signup Page
-- Create Recipe Page
-- Recipe Page
+- Home Page (on progress)
+- Login & Signup Page (belumdibuat)
+- Create Recipe Page (on progress)
+- Recipe Page (done)
 
 ## Inspirasi Style dan UI/UX
 
@@ -28,7 +28,7 @@ Menu tersedia:
 
 - font: https://fonts.google.com/
 - icon: https://fontawesome.com/
-- favicon : https://favicon.io/favicon-converter/
+- favicon : https://www.favicon-generator.org/
 
 ## Tools untuk mendesign
 
