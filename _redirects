@@ -1,6 +1,5 @@
 
-# Redirects from what the browser requests to what we serve
-/create/index.html              /writerecipe
-/index.html   
-/news              /blog
-/cuties            https://www.petsofnetlify.com
+/create/index.html      /writerecipe        301!
+/pricing/index.html     /pricing       301!
+project.nubisub.xyz/index.html    project.nubisub.xyz      301!
+/recipe/index.html       /exploremenu    301!
