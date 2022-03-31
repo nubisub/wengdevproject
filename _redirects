@@ -1,5 +1,4 @@
-
-/create/index.html      /create        301!
-/pricing/index.html     /pricing       301!
-/index.html    /main      301!
-/recipe/index.html       /recipe    301!
+/create/index.html /create 301!
+/pricing/index.html /pricing 301!
+/index.html / 301!
+/recipe/index.html /recipe 301!
