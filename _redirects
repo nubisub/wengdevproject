@@ -1,5 +1,5 @@
 
-/create/index.html      /writerecipe        301!
+/create/index.html      /create        301!
 /pricing/index.html     /pricing       301!
-project.nubisub.xyz/index.html    project.nubisub.xyz      301!
-/recipe/index.html       /exploremenu    301!
+/index.html    /main      301!
+/recipe/index.html       /recipe    301!
