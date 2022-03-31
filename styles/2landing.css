@@ -33,6 +33,7 @@ main {
 	height: 88vh;
 	max-height: 530px;
 	background-color: var(--mainwhite);
+	/* animation: show ease 1s; */
 }
 main .content {
 	margin-top: 50px;
@@ -49,11 +50,14 @@ main .content {
 	line-height: 1.1em;
 	font-weight: 700;
 	font-size: 60px;
+	animation: show 1s ease;
 }
 .desc p {
 	font-size: 1.4em;
 	font-weight: 400;
 	color: var(--blacktextcolor);
+	animation: show 1s ease;
+
 }
 .desc {
 	font-weight: 600;
@@ -62,6 +66,8 @@ main .content {
 }
 .btn-main {
 	margin-top: 6vh;
+	animation: show 1s ease;
+
 }
 .btn-main :nth-child(1) {
 	margin-right: 0.5vw;
@@ -152,9 +158,7 @@ main .content {
 	align-items: center;
 	justify-content: flex-start;
 }
-.content .desc {
-	animation: landing 1s ease;
-}
+
 @keyframes landing {
 	0% {
 		opacity: 0.3;
