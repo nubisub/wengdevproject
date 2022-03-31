@@ -158,11 +158,15 @@ main .content {
 @keyframes landing {
 	0% {
 		opacity: 0.3;
-		transform: translateY(20px);
+		transform: scale(0.9);
+
+		/* transform: translateY(20px); */
 	}
 	100% {
 		opacity: 1;
-		transform: translateY(0px);
+		/* transform: translateY(0px); */
+		transform: scale(1);
+
 	}
 }
 .food {
