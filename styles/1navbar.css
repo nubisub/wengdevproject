@@ -207,3 +207,8 @@
 	width: 30rem;
 	margin-top: 4px;
 }
+.add-shadow{
+	box-shadow: -4px -11px 35px -16px rgba(0,0,0,0.75);
+-webkit-box-shadow: -4px -11px 35px -16px rgba(0,0,0,0.75);
+-moz-box-shadow: -4px -11px 35px -16px rgba(0,0,0,0.75);
+}

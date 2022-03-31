@@ -28,6 +28,7 @@ table {
 	box-shadow: 4px 3px 66px -30px rgba(0, 0, 0, 0.45);
 	-webkit-box-shadow: 4px 3px 66px -30px rgba(0, 0, 0, 0.45);
 	-moz-box-shadow: 4px 3px 66px -30px rgba(0, 0, 0, 0.45);
+	animation: landing 1s;
 }
 th span {
 	display: block;
@@ -173,4 +174,14 @@ tr th:nth-child(4)::after {
 .xmark {
 	fill: rgb(112, 112, 112);
 	width: 15px;
+}
+@keyframes landing {
+	0% {
+		opacity: 0;
+		transform: translateY(50px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0px);
+	}
 }

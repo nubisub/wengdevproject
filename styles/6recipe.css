@@ -14,6 +14,7 @@
 	/* max-height: 600px; */
 	text-align: center;
 	max-width: 1366px;
+	animation:landing 1s
 }
 .wrapper {
 	display: flex;
@@ -111,4 +112,14 @@ transition: all .2s;
 }
 h2{
     font-size: 1em;
+}
+@keyframes landing {
+	0% {
+		opacity: 0;
+		transform: translateY(50px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0px);
+	}
 }
