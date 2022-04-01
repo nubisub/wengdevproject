@@ -1,17 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&display=swap');
 .pricingwrapper {
 	width: 100%;
-	background-color: black;
+	background-color: #fefefe;
+	padding-bottom: 100px;
 }
 .pricing {
 	max-width: 1366px;
 	background-color: #fefefe;
 	margin: 0 auto;
-	/* margin-top: 100px; */
-	/* padding-top: 0px; */
 }
 .pricing h1 {
-	font-family: "Source Sans Pro", sans-serif;
+	font-family: 'Space Grotesk', sans-serif;
 	font-weight: 600;
 	font-size: 4em;
 	text-align: center;
@@ -184,4 +183,7 @@ tr th:nth-child(4)::after {
 		opacity: 1;
 		transform: translateY(0px);
 	}
+}
+footer{
+	background-color: #eaeaea;
 }
