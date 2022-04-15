@@ -12,7 +12,7 @@ window.onload = () => {
 	document.getElementById("user").onclick = () => {
 		let dropdown = document.getElementsByClassName("user-dropdown")[0];
 		dropdown.classList.toggle("show");
-	}
+	};
 	document.addEventListener("click", (evt) => {
 		const user = document.getElementById("user");
 		const flyoutElement = document.getElementsByClassName("user-dropdown")[0];
@@ -40,7 +40,7 @@ window.onload = () => {
 			wrapper.style.display = "flex";
 			document.body.classList.add("remove-scrolling"); 
 
-		}
+		};
 	});
 	window.onclick = (event) => {
 		let exit = document.getElementsByClassName("exitbutton")[0];
@@ -73,6 +73,6 @@ window.onload = () => {
 			document.body.classList.remove("remove-scrolling"); 
 			return;
 		}
-	}
-}
+	};
+};
 

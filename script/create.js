@@ -9,10 +9,10 @@ let kurangbahan = () => {
     if (document.getElementsByClassName("bahan")[0].childElementCount <= 3) {
         return;
 		}
-    elem = document.getElementsByClassName("bahan")[0];
-    elem.removeChild(elem.lastElementChild)
+    let elem = document.getElementsByClassName("bahan")[0];
+    elem.removeChild(elem.lastElementChild);
 
-}
+};
 
 
 
@@ -27,7 +27,7 @@ let kuranglangkah = () => {
 	if (document.getElementsByClassName("langkah")[0].childElementCount <= 3) {
 		return;
 	}
-	elem = document.getElementsByClassName("langkah")[0];
+	let elem = document.getElementsByClassName("langkah")[0];
 	elem.removeChild(elem.lastElementChild);
 };
 
