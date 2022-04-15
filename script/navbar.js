@@ -38,6 +38,7 @@ window.onload = () => {
 
 			let wrapper = document.getElementsByClassName("modalwrapper")[0];
 			wrapper.style.display = "flex";
+			document.body.classList.add("remove-scrolling"); 
 
 		}
 	});
@@ -47,24 +48,29 @@ window.onload = () => {
 		let exitsvg = document
 			.getElementsByClassName("exitbutton")[0]
 			.getElementsByTagName("svg")[0].children[0];
+
 		let exitpath = document
 			.getElementsByClassName("exitbutton")[0]
 			.getElementsByTagName("svg")[0];
 		if (event.target == document.getElementsByClassName("modalwrapper")[0]) {
 			wrapper.style.display = "none";
 			console.log("clicked outside");
+			document.body.classList.remove("remove-scrolling"); 
 			return;
 		}
 		if (event.target == exit) {
 			wrapper.style.display = "none";
+			document.body.classList.remove("remove-scrolling"); 
 			return;
 		}
 		if (event.target == exitsvg) {
 			wrapper.style.display = "none";
+			document.body.classList.remove("remove-scrolling"); 
 			return;
 		}
 		if (event.target == exitpath) {
 			wrapper.style.display = "none";
+			document.body.classList.remove("remove-scrolling"); 
 			return;
 		}
 	}

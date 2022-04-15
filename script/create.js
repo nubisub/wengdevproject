@@ -11,6 +11,7 @@ let kurangbahan = () => {
 		}
     elem = document.getElementsByClassName("bahan")[0];
     elem.removeChild(elem.lastElementChild)
+
 }
 
 

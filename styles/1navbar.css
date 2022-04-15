@@ -293,3 +293,8 @@
 .user-dropdown{
 	transition: none;
 }
+.remove-scrolling { 
+  height: 100%; 
+  overflow: hidden;
+  width: 98.75%;
+} 

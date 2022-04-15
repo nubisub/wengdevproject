@@ -26,6 +26,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [Dropdown](https://codepen.io/daddasoft/pen/MWrYQYe)
 - [Shadow when Scroll](https://stackoverflow.com/questions/40967682/navbar-changing-to-add-shadow-on-scroll)
 - [outside element click](https://codepen.io/blustemy/pen/QdjXaO)
+https://codepen.io/sean_smyth/pen/Lmyama
 
 ## Font & Icon
 

@@ -215,3 +215,22 @@ label span {
 	margin-top: 20px;
 	display: block;
 }
+.hidden{
+	display: none;
+}
+.langkah .form:nth-child(n+2) label, .bahan .form:nth-child(n+2) label{
+	display: none;
+}
+.langkah .form:nth-child(n+2) input, .bahan .form:nth-child(n+2) input{
+	animation: tambah .5s ease;
+}
+@keyframes tambah {
+	0% {
+		opacity: 0;
+		transform: translateY(-10px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0px);
+	}
+}
