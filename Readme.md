@@ -16,6 +16,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [Netlify](https://www.netlify.com/)
 - [Airbnb](https://www.airbnb.com/)
 - [UI/UX from dribble](https://dribbble.com/shots/15223754/attachments/6970440?mode=media)
+- [Sign in Modal Box](https://dribbble.com/shots/3775046-Updated-Login-Modal-Window)
 - [Cookpad](https://cookpad.com/id)
 - [Algolia](https://www.algolia.com/)
 
@@ -24,6 +25,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [Searchbar](https://codepen.io/kmuenster/pen/XWWeQGw) 
 - [Dropdown](https://codepen.io/daddasoft/pen/MWrYQYe)
 - [Shadow when Scroll](https://stackoverflow.com/questions/40967682/navbar-changing-to-add-shadow-on-scroll)
+- [outside element click](https://codepen.io/blustemy/pen/QdjXaO)
 
 ## Font & Icon
 

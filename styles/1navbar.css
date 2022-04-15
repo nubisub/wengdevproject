@@ -239,7 +239,13 @@
 	font-size: .8rem;
 	/* font-size: 5em; */
 }
-.dropdown:hover .dropdown-content {
+.dropdown:hover .hover {
+	visibility: visible;
+	transform: translateY(0);
+	transition-delay: 0s, 0s, 0s;
+	opacity: 1;
+}
+.show {
 	visibility: visible;
 	transform: translateY(0);
 	transition-delay: 0s, 0s, 0s;
@@ -283,4 +289,7 @@
 }
 .menu ul li a{
 	/* color: rgb(255, 0, 0); */
+}
+.user-dropdown{
+	transition: none;
 }

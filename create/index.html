@@ -10,6 +10,7 @@
 		<link rel="stylesheet" href="../styles/4form.css" />
 
 		<script src="../script/create.js"></script>
+		<script src="../script/navbar.js"></script>
 	</head>
 	<body>
 		<div class="navbarwrapper" id="navbarwrapper">
@@ -37,7 +38,7 @@
 									/>
 								</svg>
 							</a>
-							<div class="dropdown-content">
+							<div class="dropdown-content hover">
 								<a href="#">Easter</a>
 								<a href="#">Family Dinners</a>
 								<a href="#">Helthy</a>
@@ -79,7 +80,7 @@
 						/>
 					</div>
 					<div class="user dropdown">
-						<a href="#">
+						<a id="user" href="javascript: void(0)"">
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								viewBox="0 0 512 512"
@@ -90,11 +91,11 @@
 								/>
 							</svg>
 						</a>
-						<div class="dropdown-content">
-							<a href="users/sign_up/index.html">Sign Up</a>
-							<a href="users/sign_in/index.html">Log in</a>
+						<div class="dropdown-content user-dropdown">
+							<a class="loginnavbar" href="javascript: void(0)">Sign Up</a>
+							<a class="loginnavbar" href="javascript: void(0)">Log in</a>
 							<hr />
-							<a href="../create/index.html">Tulis Resep</a>
+							<a href="#">Tulis Resep</a>
 							<hr />
 							<a href="#">Contact Us</a>
 							<a href="#">Help</a>
@@ -103,6 +104,7 @@
 				</div>
 			</nav>
 		</div>
+
 		<div class="container">
 			<form id="survey-form" data-netlify="true">
 				<div class="form">
@@ -216,7 +218,18 @@
 					</div>
 
 					<div class="form">
-						<label for="bahan2"></label>
+						<label for="bahan2">Bahan-bahan</label>
+						<input
+							name="bahan2"
+							id="bahan2"
+							type="text"
+							class="control"
+							placeholder="Bahan berikutnya..."
+						/>
+					</div>
+
+					<div class="form hidden tambahbahan">
+						<label for="bahan2">Bahan-bahan</label>
 						<input
 							name="bahan2"
 							id="bahan2"
@@ -226,6 +239,7 @@
 						/>
 					</div>
 				</div>
+
 				<div class="tambah">
 					<button type="button" onclick="tambahbahan()"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
 						<path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"/></svg> Add</button>
@@ -244,7 +258,17 @@
 						/>
 					</div>
 					<div class="form">
-						<label for="langkah"></label>
+						<label for="langkah">Langkah-langkah</label>
+						<input
+							name="langkah"
+							id="langkah"
+							type="text"
+							class="control"
+							placeholder="Langkah Berikutnya..."
+						/>
+					</div>
+					<div class="form hidden tambahlangkah">
+						<label for="langkah">Langkah-langkah</label>
 						<input
 							name="langkah"
 							id="langkah"
@@ -273,5 +297,6 @@
 				
 			</form>
 		</div>
+
 	</body>
 </html>

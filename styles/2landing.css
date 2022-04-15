@@ -204,7 +204,7 @@ main {
 		transform: translateY(30px);
 		/* transform: scale(0.9); */
 	}
-	30% {
+	40% {
 		opacity: 0;
 		transform: translateY(30px);
 		/* tran
