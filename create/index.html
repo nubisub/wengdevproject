@@ -10,7 +10,7 @@
 		<link rel="stylesheet" href="../styles/4form.css" />
 
 		<script src="../script/create.js"></script>
-		<script src="../script/navbar.js"></script>
+		<!-- <script src="../script/navbar.js"></script> -->
 
 		<link rel="shortcut icon" href="public/favicon.ico" type="image/x-icon" />
 		<link rel="icon" href="public/favicon.ico" type="image/x-icon" />
@@ -152,7 +152,7 @@
 						/>
 					</div>
 					<div class="user dropdown">
-						<a id="user" href="javascript: void(0)"">
+						<a id="user" href="javascript: void(0)">
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								viewBox="0 0 512 512"
@@ -304,7 +304,6 @@
 						<label for="bahan2">Bahan-bahan</label>
 						<input
 							name="bahan2"
-							id="bahan2"
 							type="text"
 							class="control"
 							placeholder="Bahan berikutnya..."
@@ -313,9 +312,9 @@
 				</div>
 
 				<div class="tambah">
-					<button type="button" onclick="tambahbahan()"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+					<button  type="button" onclick="tambahbahan()"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
 						<path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"/></svg> Add</button>
-					<button type="button" onclick="kurangbahan()">Remove</button>
+					<button class="buttonremove" type="button" onclick="kurangbahan()">Remove</button>
 				</div>
 
 				<div class="langkah">
@@ -333,7 +332,7 @@
 						<label for="langkah">Langkah-langkah</label>
 						<input
 							name="langkah"
-							id="langkah"
+							id="langkah2"
 							type="text"
 							class="control"
 							placeholder="Langkah Berikutnya..."
@@ -343,7 +342,6 @@
 						<label for="langkah">Langkah-langkah</label>
 						<input
 							name="langkah"
-							id="langkah"
 							type="text"
 							class="control"
 							placeholder="Langkah Berikutnya..."
@@ -351,7 +349,7 @@
 					</div>
 				</div>
 				<div class="tambah">
-					<button type="button" onclick="tambahlangkah()"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+					<button class="tambahlangkah" type="button" onclick="tambahlangkah()"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
 						<path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"/></svg> Add</button>
 					<button type="button" onclick="kuranglangkah()">Remove</button>
 				</div>

@@ -39,7 +39,7 @@ main {
 	margin-right: auto;
 	margin-left: auto;
 	height: 88vh;
-	max-height: 530px;
+	max-height: 550px;
 	background-color: var(--mainwhite);
 	/* animation: show ease 1s; */
 }

@@ -30,3 +30,4 @@ let kuranglangkah = () => {
 	elem = document.getElementsByClassName("langkah")[0];
 	elem.removeChild(elem.lastElementChild);
 };
+

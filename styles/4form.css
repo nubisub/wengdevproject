@@ -234,3 +234,6 @@ label span {
 		transform: translateY(0px);
 	}
 }
+.disable{
+	background-color: rgb(166, 43, 43) !important;
+}
