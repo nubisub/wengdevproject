@@ -46,7 +46,7 @@
 	margin-bottom: 10px;
 }
 .bg {
-	background: url(../images/wilayah/minang.png);
+	background: url(../images/wilayah/minang.webp);
 	background-size: cover;
 	border-radius: 0.4em 0.4em 0 0;
 }
@@ -62,15 +62,15 @@
 	font-weight: 500;
 }
 .java {
-	background: url(../images/wilayah/javanese.png);
+	background: url(../images/wilayah/jawa.webp);
 	background-size: cover;
 }
 .healthy {
-	background: url(../images/wilayah/fresh-vegetables-falling-into-pot-600w-1797267202.png);
+	background: url(../images/wilayah/healthy.webp);
 	background-size: cover;
 }
 .chinese {
-	background: url(../images/wilayah/chinese-new-year-reunion-dinner-600w-691364329.png);
+	background: url(../images/wilayah/chinese.webp);
 	background-size: cover;
 
 }

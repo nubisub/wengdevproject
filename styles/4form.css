@@ -20,7 +20,7 @@ body {
 			rgba(46, 49, 79, 0.7) 23%,
 			rgba(83, 87, 126, 0.8) 54%
 		),
-		url(../images/ramsay.png);
+		url(../images/ramsay.webp);
 
 	background-attachment: fixed;
 	background-size: cover;

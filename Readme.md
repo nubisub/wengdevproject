@@ -39,3 +39,4 @@ https://codepen.io/sean_smyth/pen/Lmyama
 - Photoshop
 - [CSS Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
 - [CSS Gradient Background Generator](https://cssgradient.io/)
+- [webp conversion and compression](https://ezgif.com/png-to-webp)
