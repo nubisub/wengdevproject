@@ -2,7 +2,7 @@
 
 Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh pengguna. Pembuatan website ini terinspirasi secara tidak sengaja dari [YouTube recomendation](https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd) , tetapi dalam tutorial tersebut menggunakan reactJS dan API dari [Spoonacular](https://spoonacular.com/) sedangkan dalam pembuatan website ini hanya menggunakan HTML, CSS dan JavaScript
 
-## Menu tersedia:
+## Menu tersedia
 
 1. Home Page (on progress)
 2. Write Recipe (Hampir)
@@ -25,7 +25,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [Dropdown](https://codepen.io/daddasoft/pen/MWrYQYe)
 - [Shadow when Scroll](https://stackoverflow.com/questions/40967682/navbar-changing-to-add-shadow-on-scroll)
 - [outside element click](https://codepen.io/blustemy/pen/QdjXaO)
-  https://codepen.io/sean_smyth/pen/Lmyama
+- [outside element click](https://codepen.io/sean_smyth/pen/Lmyama)
 
 ## Font & Icon
 
