@@ -1,18 +1,11 @@
-* {
-	/* border: solid 1px; */
-}
 form {
 	padding: 0 25px;
 }
 #login {
 	width: 450px;
 	height: 600px;
-	/* border: 1px solid black; */
-	/* position: fixed; */
 	top: 0;
 	margin: 0 auto;
-	/* top: 50px;
-	left: 30vw; */
 	background-color: #fefefe;
 	border-radius: 0.4em;
 	box-shadow: 2px 2px 17px -5px rgba(0, 0, 0, 0.69);
@@ -69,8 +62,6 @@ form {
 	display: none;
 }
 .form {
-	/* border: solid 1px; */
-
 	display: flex;
 	flex-direction: column;
 	justify-content: left;
@@ -79,14 +70,11 @@ form {
 .form input {
 	width: 100%;
 	height: 40px;
-	/* border: solid 1px; */
 	margin-bottom: 7px;
 	padding: 0 8px;
 	font-size: 1em;
 	border: solid 1px;
 	border-radius: 0.1em;
-
-	/* outline: #03b473 2px solid; */
 }
 .form input:focus {
 	outline: #03b473 1px solid;
@@ -100,7 +88,6 @@ form {
 	flex-direction: row;
 	justify-content: center;
 	height: 70px;
-	/* border: solid 1px; */
 	align-items: center;
 }
 .login {
@@ -113,10 +100,6 @@ form {
 	height: 80px;
 }
 
-.headcontainer .xmark {
-	/* width: 10%; */
-	/* margin-left: 20px; */
-}
 .headcontainer .welcome {
 	width: 100%;
 	position: relative;
@@ -134,14 +117,10 @@ form {
 	margin: 0;
 	height: 0;
 }
-/* .xmark a{
-    border: solid 1px;
-    border-radius: 50%;
-} */
+
 .form button {
 	width: 100%;
 	height: 40px;
-	/* border: solid 1px; */
 	margin-bottom: 10px;
 }
 .bodycontainer {
@@ -155,11 +134,9 @@ form {
 .form svg {
 	width: 20px;
 	margin: 0 10px;
-	/* padding: 14px; */
 }
 .form button {
 	padding-left: 105px;
-	/* margin: 0 auto; */
 	display: flex;
 	flex-direction: row;
 	justify-content: left;
@@ -167,7 +144,6 @@ form {
 	font-family: inherit;
 	border: solid 1px;
 	border-radius: 0.2em;
-	/* pointer */
 	cursor: pointer;
 	font-size: 0.8em;
 	font-weight: 400;
@@ -177,7 +153,6 @@ form {
 	background-color: #f4f2f2;
 }
 button .apple {
-	/* padding-left: 5px; */
 	margin-left: 12px;
 	width: 23px;
 	margin-right: 3px;
@@ -185,7 +160,6 @@ button .apple {
 .signinbtn {
 	margin: 2px 0;
 	font-family: inherit;
-	/* font-weight: 900; */
 	font-size: 0.8em;
 }
 .signinbtn input {
@@ -199,38 +173,10 @@ button .apple {
 	background-color: #039b6d;
 	color: #ffffff;
 }
-/* .exit{
-    float: left;
-    display: inline;
-    position: relative;
-    top: 15px;
-    left: 15px;
-    width: 15px;
-    z-index: 90;
-} */
-/* .exit{
-    width: 15px;
-    margin-left: 25px;
-    cursor: pointer;
-    z-index: 90;
-    fill: rgb(146, 146, 146);
-    z-index: 9999999999999999999999999999999;
-}
-.exit:hover{
-    fill: black;
-    text-shadow: 20px;
-    box-shadow: 1px -1px 28px 0px rgba(0,0,0,1) inset;
--webkit-box-shadow: 1px -1px 28px 0px rgba(0,0,0,1) inset;
--moz-box-shadow: 1px -1px 28px 0px rgba(0,0,0,1) inset;
 
-} */
 .exitbutton {
-	/* box-sizing: border-box; */
 	cursor: pointer;
 	width: 37px;
-	/* height: 100px; */
-	/* width: 50px; */
-	/* height: 40px; */
 	border-radius: 50%;
 	display: flex;
 	justify-content: center;
@@ -240,16 +186,12 @@ button .apple {
 	border: none;
 	z-index: 9999999;
 	padding: 0;
-	/* padding: 15px; */
-	/* cursor: pointer; */
 	transition: background-color 0.1s linear;
 }
 .exitbutton:hover {
 	background-color: rgba(141, 141, 141, 0.1);
 }
 .exitbutton svg {
-	/* display: inline-block; */
-	/* width: 100px; */
 	width: 13px;
 	margin: 5px;
 }
@@ -257,7 +199,6 @@ button .apple {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	/* margin: 0 1px; */
 	font-size: 0.9em;
 	margin: 10px 0;
 	color: rgba(68, 68, 68, 0.957);
@@ -272,8 +213,6 @@ button .apple {
 	top: 50%;
 	background-color: rgba(141, 141, 141, 0.463);
 	margin: 0;
-	/* background-color: red; */
-	/* margin: 0 10px; */
 }
 .separate::before {
 	right: 10px;
@@ -283,8 +222,4 @@ button .apple {
 	position: relative;
 	top: 50%;
 	background-color: rgba(141, 141, 141, 0.463);
-
 	margin: 0;
-	/* background-color: red; */
-	/* margin: 0 10px; */
-}
