@@ -10,7 +10,6 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 4. Pricing (Hampir)
 5. Login & Signup Page (menghadeh)
 
-
 ## Inspirasi Style & UI/UX
 
 - [Netlify](https://www.netlify.com/)
@@ -22,11 +21,11 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 
 ## Inspirasi Code
 
-- [Searchbar](https://codepen.io/kmuenster/pen/XWWeQGw) 
+- [Searchbar](https://codepen.io/kmuenster/pen/XWWeQGw)
 - [Dropdown](https://codepen.io/daddasoft/pen/MWrYQYe)
 - [Shadow when Scroll](https://stackoverflow.com/questions/40967682/navbar-changing-to-add-shadow-on-scroll)
 - [outside element click](https://codepen.io/blustemy/pen/QdjXaO)
-https://codepen.io/sean_smyth/pen/Lmyama
+  https://codepen.io/sean_smyth/pen/Lmyama
 
 ## Font & Icon
 

@@ -6,15 +6,12 @@ let tambahbahan = () => {
 };
 
 let kurangbahan = () => {
-    if (document.getElementsByClassName("bahan")[0].childElementCount <= 3) {
-        return;
-		}
-    let elem = document.getElementsByClassName("bahan")[0];
-    elem.removeChild(elem.lastElementChild);
-
+	if (document.getElementsByClassName("bahan")[0].childElementCount <= 3) {
+		return;
+	}
+	let elem = document.getElementsByClassName("bahan")[0];
+	elem.removeChild(elem.lastElementChild);
 };
-
-
 
 let tambahlangkah = () => {
 	const node = document.getElementsByClassName("tambahlangkah")[0];
@@ -30,4 +27,3 @@ let kuranglangkah = () => {
 	let elem = document.getElementsByClassName("langkah")[0];
 	elem.removeChild(elem.lastElementChild);
 };
-
