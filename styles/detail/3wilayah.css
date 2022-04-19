@@ -3,7 +3,7 @@
 }
 .secmain {
 	/* width: 100%; */
-	background-color: #f3f3f3;
+	background-color: var(--bgwilayah);
 }
 .wilayah {
 	padding: 5px 100px;
@@ -59,6 +59,7 @@
 	margin-top: 50px;
 	text-align: left;
 	font-weight: 500;
+	color: var(--blacktextcolor);
 }
 .java {
 	background: url(../images/wilayah/jawa.webp);

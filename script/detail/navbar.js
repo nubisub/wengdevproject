@@ -9,6 +9,32 @@ window.addEventListener("scroll", (e) => {
 
 
 window.onload = () => {
+	try {
+		const colormode = document.getElementById("colormode");
+		const lightfood = document.getElementById("lightfood");
+		const darkfood = document.getElementById("darkfood");
+		
+		colormode.addEventListener("click", () => {
+		if (colormode.checked) {
+			darkfood.classList.remove("hidden");
+			lightfood.classList.add("hidden");
+			document.body.classList.add("dark");
+			document.body.classList.add("colortransition");
+
+		} else {
+			darkfood.classList.add("hidden");
+			// darkfood.classList.add("colortransition");
+			lightfood.classList.remove("hidden");
+			// document.body.classList.remove("dark");
+			document.body.classList.remove("dark");
+		}
+	});
+
+	} catch (error) {
+		
+	}
+	
+	
 	document.getElementById("user").onclick = () => {
 		let dropdown = document.getElementsByClassName("user-dropdown")[0];
 		dropdown.classList.toggle("show");

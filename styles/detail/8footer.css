@@ -14,6 +14,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     width: 95%;
+
 }
 .footer ul {
     padding: 20px;
@@ -23,10 +24,13 @@
     text-decoration: none;
     margin-bottom: 15px;
     font-size: .9rem;
+    color: var(--black);
+    transition: none;
+
 }
 .footer ul li a{
     text-decoration: none;
-    color: rgb(52, 52, 52);
+    color: var(--black);
     font-weight: 400;
     /* transition: all 5s; */
 }
@@ -44,6 +48,7 @@
 }
 .about{
     width: 25%;
+
 }
 footer hr {
     width: 100%;
@@ -58,6 +63,8 @@ footer hr {
     align-items: center;
     height: 60px;
     font-size: .9em;
+    color: var(--black);
+    transition: none;
 }
 .social{
     display: flex;
@@ -65,10 +72,11 @@ footer hr {
 .social a svg{
     width:20px;
     margin-left: 20px;
+    fill: var(--black);
 }
 .tengah a{
     text-decoration: none;
-    color: black;
+    color: var(--black);
     margin-right:20px;
 }
 .tengah a:hover{
@@ -76,6 +84,8 @@ footer hr {
 }
 .footer h1{
     margin:0;
+    color: var(--black);
+
 }
 .footer ul li:nth-child(1) a:hover{
     text-decoration: none;

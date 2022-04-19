@@ -5,8 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "concurrently \"cleancss -o styles/homepage.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/2landing.css styles/detail/3wilayah.css styles/detail/8footer.css styles/detail/9login.css styles/detail/5responsive.css --watch \" \"cleancss -o styles/pricing.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/7pricing.css styles/detail/8footer.css styles/detail/9login.css --watch\" \"cleancss -o styles/recipe.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/6recipe.css styles/detail/5responsive.css styles/detail/9login.css --watch\" \"cleancss -o styles/create.css styles/detail/1navbar.css styles/detail/0body.css styles/detail/4form.css --watch\"",
-    "script":"uglifyjs script/detail/create.js -o script/create.js -c -m "
+		"dev": "concurrently \"cleancss -o styles/homepage.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/2landing.css styles/detail/3wilayah.css styles/detail/8footer.css styles/detail/9login.css styles/detail/5responsive.css --watch \" \"cleancss -o styles/pricing.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/7pricing.css styles/detail/8footer.css styles/detail/9login.css --watch\" \"cleancss -o styles/recipe.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/6recipe.css styles/detail/5responsive.css styles/detail/9login.css --watch\" \"cleancss -o styles/create.css  styles/detail/0body.css styles/detail/1navbar.css styles/detail/4form.css --watch\"",
+		"script": "uglifyjs script/detail/create.js -o script/create.js -c -m "
 	},
 	"repository": {
 		"type": "git",
@@ -18,5 +18,14 @@
 	"bugs": {
 		"url": "https://github.com/nubisub/projectpbw/issues"
 	},
-	"homepage": "https://github.com/nubisub/projectpbw#readme"
+	"homepage": "https://github.com/nubisub/projectpbw#readme",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"gulp-cleancss": "^0.2.2"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-clean-css": "^4.3.0",
+		"gulp-connect": "^5.7.0"
+	}
 }
