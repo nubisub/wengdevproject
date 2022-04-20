@@ -6,7 +6,8 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"dev": "concurrently \"cleancss -o styles/homepage.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/2landing.css styles/detail/3wilayah.css styles/detail/8footer.css styles/detail/9login.css styles/detail/5responsive.css --watch \" \"cleancss -o styles/pricing.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/7pricing.css styles/detail/8footer.css styles/detail/9login.css --watch\" \"cleancss -o styles/recipe.css styles/detail/0body.css styles/detail/1navbar.css styles/detail/6recipe.css styles/detail/5responsive.css styles/detail/9login.css --watch\" \"cleancss -o styles/create.css  styles/detail/0body.css styles/detail/1navbar.css styles/detail/4form.css --watch\"",
-		"script": "uglifyjs script/detail/create.js -o script/create.js -c -m "
+		"createjs": "uglifyjs script/detail/create.js -o script/create.js -c -m ",
+		"navbarjs": "uglifyjs script/detail/navbar.js -o script/navbar.js -c -m "
 	},
 	"repository": {
 		"type": "git",

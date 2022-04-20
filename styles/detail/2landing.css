@@ -122,9 +122,9 @@ main {
 	border-radius: 0.3em;
 	text-decoration: none;
 	background: var(--cardwhite);
-	box-shadow: -21px 11px 73px -8px rgba(97, 97, 97, 0.33);
-	-webkit-box-shadow: -21px 11px 73px -8px rgba(97, 97, 97, 0.33);
-	-moz-box-shadow: -21px 11px 73px -8px rgba(97, 97, 97, 0.33);
+	box-shadow: -21px 11px 73px -8px var(--boxshadow);
+	-webkit-box-shadow: -21px 11px 73px -8px var(--boxshadow);
+	-moz-box-shadow: -21px 11px 73px -8px var(--boxshadow);
 	animation: landing 3s ease;
 }
 .card img {
@@ -148,6 +148,14 @@ main {
 }
 .food {
 	animation: landing ease 2s;
+}
+@keyframes fooddark{
+	0%{
+		opacity: 0.5;
+	}
+	100%{
+		opacity: 1;
+	}
 }
 
 @keyframes landing {

@@ -7,26 +7,98 @@ window.addEventListener("scroll", (e) => {
 	}
 });
 
+function setCookie(cname, cvalue, exdays) {
+	const d = new Date();
+	d.setTime(d.getTime() + exdays * 24 * 60 * 60 * 1000);
+	let expires = "expires=" + d.toUTCString();
+	document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+function getCookie(cname) {
+	let name = cname + "=";
+	let decodedCookie = decodeURIComponent(document.cookie);
+	let ca = decodedCookie.split(";");
+	for (let i = 0; i < ca.length; i++) {
+		let c = ca[i];
+		while (c.charAt(0) == " ") {
+			c = c.substring(1);
+		}
+		if (c.indexOf(name) == 0) {
+			return c.substring(name.length, c.length);
+		}
+	}
+	// alert("lightmode");
+	return "";
+}
 
-window.onload = () => {
-	try {
-		const colormode = document.getElementById("colormode");
+
+function darkmode() {
+	setCookie("isdark", "true", 365);
 		const lightfood = document.getElementById("lightfood");
 		const darkfood = document.getElementById("darkfood");
-		
+	// if exist
+	// setCookie("ischecked", ischecked, 365);
+
+	if (darkfood != null) {
+		darkfood.classList.remove("hidden");
+		darkfood.style.animation = "landing ease 1s";
+		lightfood.classList.add("hidden");
+		lightfood.style.animation = "landing ease 1s";
+	}
+	document.body.classList.add("dark");
+	document.body.classList.add("colortransition");
+}
+function lightmode() {
+			const lightfood = document.getElementById("lightfood");
+			const darkfood = document.getElementById("darkfood");
+	// if (colormode.checked) {
+	if (darkfood != null) {
+			darkfood.classList.add("hidden");
+	// darkfood.classList.add("colortransition");
+	lightfood.classList.remove("hidden");
+	}
+
+	// document.body.classList.remove("dark");
+	// }
+	setCookie("isdark", "false", 365);
+	document.body.classList.remove("dark");
+}
+function checkCookie() {
+
+	const colormode = document.getElementById("colormode");
+	let mode = getCookie("isdark");
+	if (mode == "true") {
+		console.log(mode);
+		darkmode();
+		colormode.checked = true;
+		console.log("darkmode");
+		// darkmode();
+		// alert("darkmode");
+	} else {
+		console.log("lightmode");
+		// lightmode();
+		colormode.checked = false;
+		// setCookie("isdark", "false", 365);
+		if (mode == "" || mode == null) {
+			// alert("lighmode");
+			setCookie("isdark", "false", 365);
+		}
+	}
+}
+// document.addEventListener("DOMContentLoaded", function () {
+// 		checkCookie();
+// });
+
+window.onload = () => {
+	checkCookie();
+	try {
+		let mode = getCookie("isdark");
+		console.log(mode);
+		const colormode = document.getElementById("colormode");
 		colormode.addEventListener("click", () => {
 		if (colormode.checked) {
-			darkfood.classList.remove("hidden");
-			lightfood.classList.add("hidden");
-			document.body.classList.add("dark");
-			document.body.classList.add("colortransition");
-
+			darkmode();
 		} else {
-			darkfood.classList.add("hidden");
-			// darkfood.classList.add("colortransition");
-			lightfood.classList.remove("hidden");
-			// document.body.classList.remove("dark");
-			document.body.classList.remove("dark");
+			lightmode();
 		}
 	});
 
