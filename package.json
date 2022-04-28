@@ -1,6 +1,7 @@
 {
 	"name": "project",
 	"version": "1.0.0",
+	"type": "module",
 	"description": "Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman ",
 	"main": "index.js",
 	"scripts": {
@@ -22,11 +23,14 @@
 	"homepage": "https://github.com/nubisub/projectpbw#readme",
 	"dependencies": {
 		"chalk": "^5.0.1",
-		"gulp-cleancss": "^0.2.2"
+		"esm": "^3.2.25",
+		"gulp-cleancss": "^0.2.2",
+		"swiper": "^8.1.4"
 	},
 	"devDependencies": {
 		"gulp": "^4.0.2",
 		"gulp-clean-css": "^4.3.0",
-		"gulp-connect": "^5.7.0"
+		"gulp-connect": "^5.7.0",
+		"webpack": "^5.72.0"
 	}
 }
