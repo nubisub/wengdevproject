@@ -1,9 +1,5 @@
 <?php
-// database connection
-$servername = "ganesa";
-$username = "nubc3594_nubisub";
-$password = "henkus18072001";
-$dbname = "nubc3594_recipe";
+
 
 // $servername = "localhost";
 // $username = "root";
