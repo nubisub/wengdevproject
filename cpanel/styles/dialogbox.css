@@ -1,0 +1,108 @@
+.dialogbox{
+            width:340px;
+            height:50px;
+            background-color: white;
+            border-bottom: solid 3.5px #039C6D;
+            border-radius: .1em .1em .2em .2em;
+            /* border-radius: 5px; */
+            position: fixed;
+            top: 2%;
+            left: 1%;
+            /*margin-right:-150px;*/
+            display: flex;
+            align-items: center;
+            padding: 2px;
+            /* justify-content: space-around; */
+            box-shadow: 2px 3px 19px -7px rgba(92,92,92,0.69);
+-webkit-box-shadow: 2px 3px 19px -7px rgba(92,92,92,0.69);
+-moz-box-shadow: 2px 3px 19px -7px rgba(92,92,92,0.69);
+            animation: fade 6s;
+             animation-fill-mode: forwards; 
+            visibility: hidden;
+            z-index:999999999999999999999999999999999999999;
+        }
+        .dialogbox1{
+            width:340px;
+            height:50px;
+            background-color: white;
+            border-bottom: solid 3.5px #039C6D;
+            border-radius: .1em .1em .2em .2em;
+            /* border-radius: 5px; */
+            position: fixed;
+            top: 10%;
+            left: 1%;
+            /*margin-right:-150px;*/
+            display: flex;
+            align-items: center;
+            padding: 2px;
+            /* justify-content: space-around; */
+            box-shadow: 2px 3px 19px -7px rgba(92,92,92,0.69);
+-webkit-box-shadow: 2px 3px 19px -7px rgba(92,92,92,0.69);
+-moz-box-shadow: 2px 3px 19px -7px rgba(92,92,92,0.69);
+            animation: fade 6s;
+             animation-fill-mode: forwards; 
+            visibility: hidden;
+            z-index:999999999999999999999999999999999999999;
+            animation-delay:.2s;
+        }
+        @keyframes fade {
+            0% {
+                /* from top to bottom */
+                visibility: visible;
+                opacity: 0.4;
+                transform: translateX(-100px);
+
+            }
+            15% {
+                visibility: visible;
+
+                /* from top to bottom */
+                opacity: 1;
+                transform: translateX(0px);
+            }
+            90% {
+                visibility: visible;
+                /* from top to bottom */
+                opacity: 1;
+                transform: translateX(0px);
+            }
+            100% {
+                visibility: hidden;
+                opacity: 0;
+                transform: translateX(-100px);
+            }
+        }
+        .dialogbox svg, .dialogbox1 svg{
+            width: 18px;
+            
+        }
+        .successlogin{
+            fill: #039C6D;
+            /* margin-left: 10px; */
+        }
+        .textmessage{
+            /* margin-left: 10px; */
+            font-size: 1em;
+            width: 74%;
+        }
+        .dialogbox .xmarkdialog, .dialogbox1 .xmarkdialog{
+            fill: rgba(196, 196, 196, 0.803);
+            width: 10px;
+        }
+        .svgdialog{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 15px;
+            margin-right: 10px;
+        }
+        .buttondialog{
+            all: unset;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            /* border-radius: 50%; */
+        }
+        .buttondialog:hover .xmarkdialog{
+            fill: rgba(122, 122, 122, 0.803);
+        }

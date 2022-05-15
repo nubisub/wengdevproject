@@ -3,7 +3,7 @@
 
 Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh pengguna. Pembuatan website ini terinspirasi secara tidak sengaja dari [YouTube recomendation](https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd) , tetapi dalam tutorial tersebut menggunakan reactJS dan API dari [Spoonacular](https://spoonacular.com/) sedangkan dalam pembuatan website ini hanya menggunakan HTML, CSS dan JavaScript
 
-## Menu tersedia
+## Menu tersedia (Deadline Pertama)
 
 - [x] Home Page
 - [x] Write Recipe
@@ -11,6 +11,16 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [x] Pricing
 - [x] Login & Signup Page
 - [x] Dark Mode
+
+## Menu tersedia (Deadline Final)
+- [x] Sign in
+- [x] Sign up
+- [x] Create
+- [x] Read (all or just user's recipe)
+- [] Update
+- [x] Delete
+- [] Search
+
 
 ## Inspirasi Style & UI/UX
 

@@ -1,0 +1,132 @@
+[30-Apr-2022 17:05:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 17:05:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 17:05:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 17:06:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 18:30:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 18:46:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 18:46:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 18:46:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 18:46:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 18:46:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[30-Apr-2022 18:47:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/recipe/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/recipe/index.php on line 144
+[14-May-2022 18:37:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/project/recipe/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/project/recipe/index.php on line 34
+[14-May-2022 18:37:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/project/recipe/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/project/recipe/index.php on line 34
+[14-May-2022 18:37:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/project/recipe/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/project/recipe/index.php on line 34
+[14-May-2022 18:38:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/project/recipe/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/project/recipe/index.php on line 34
+[14-May-2022 18:38:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/project/recipe/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/project/recipe/index.php on line 34
+[14-May-2022 18:40:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 32
+[14-May-2022 18:41:59 Asia/Jakarta] PHP Warning:  require(/require/favicon.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 15
+[14-May-2022 18:41:59 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/favicon.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 15
+[14-May-2022 18:42:03 Asia/Jakarta] PHP Warning:  require(/require/favicon.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 15
+[14-May-2022 18:42:03 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/favicon.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 15
+[14-May-2022 18:43:06 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 32
+[14-May-2022 18:44:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 32
+[14-May-2022 18:44:26 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 32
+[14-May-2022 18:44:43 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:43 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:45 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:45 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:48 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:51 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:51 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:52 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:52 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:54 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:54 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:58 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:44:58 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:45:00 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:45:00 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:46:45 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:46:45 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:46:48 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:46:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:47:06 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:47:06 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:40 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:40 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:40 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:40 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:41 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:41 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:42 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:42 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:42 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:42 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:43 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:43 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:43 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:43 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:43 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:43 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:44 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:44 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:44 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:44 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:44 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:44 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:45 Asia/Jakarta] PHP Warning:  require(/require/navbar.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:48:45 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/require/navbar.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 24
+[14-May-2022 18:49:37 Asia/Jakarta] PHP Warning:  require(/php/connect.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 32
+[14-May-2022 18:49:37 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/php/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 32
+[14-May-2022 18:50:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nubc3594/public_html/project/recipe/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nubc3594/public_html/project/recipe/index.php on line 34
+[14-May-2022 22:08:07 Asia/Jakarta] PHP Warning:  require(require/login.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 164
+[14-May-2022 22:08:07 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'require/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 164
+[14-May-2022 22:08:11 Asia/Jakarta] PHP Warning:  require(require/login.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 164
+[14-May-2022 22:08:11 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'require/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 164
+[14-May-2022 22:08:14 Asia/Jakarta] PHP Warning:  require(require/login.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 164
+[14-May-2022 22:08:14 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'require/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 164
+[14-May-2022 22:08:31 Asia/Jakarta] PHP Warning:  require(require/login.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/recipe/index.php on line 164
+[14-May-2022 22:08:31 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'require/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/recipe/index.php on line 164

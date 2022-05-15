@@ -1,0 +1,31 @@
+[30-Apr-2022 18:53:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 21:03:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 21:11:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:01:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:37) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:02:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:37) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:02:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:02:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:37) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:14:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:36) in /home/nubc3594/public_html/create/create.php on line 89
+[14-May-2022 18:37:42 Asia/Jakarta] PHP Warning:  require(../favicon.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:37:42 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../favicon.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:37:52 Asia/Jakarta] PHP Warning:  require(../favicon.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:37:52 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../favicon.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:55:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(foto/627f989e5a837.png): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/php/create.php on line 33
+[14-May-2022 18:55:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdyJFBZ' to 'foto/627f989e5a837.png' in /home/nubc3594/public_html/project/php/create.php on line 33
+[14-May-2022 19:10:16 Asia/Jakarta] PHP Warning:  require(create/connect.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/php/loginuser.php on line 2
+[14-May-2022 19:10:16 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/php/loginuser.php on line 2
+[14-May-2022 21:00:45 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'field list' in /home/nubc3594/public_html/project/php/create.php:51
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/create.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/create.php on line 51
+[14-May-2022 21:03:59 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/nubc3594/public_html/project/php/create.php:51
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/create.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/create.php on line 51
+[14-May-2022 21:04:20 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/nubc3594/public_html/project/php/create.php:51
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/create.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/create.php on line 51
