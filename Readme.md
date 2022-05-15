@@ -17,9 +17,9 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [x] Sign up
 - [x] Create
 - [x] Read (all or just user's recipe)
-- [] Update
+- [ ] Update
 - [x] Delete
-- [] Search
+- [ ] Search
 
 
 ## Inspirasi Style & UI/UX
