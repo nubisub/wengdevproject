@@ -72,7 +72,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [clean-css](https://www.npmjs.com/package/clean-css)
 - [Open Graph Meta Tags Generator](https://www.opengraph.xyz/)
 
-<details open>
+<details>
 <summary>Made with :kiss: </summary>
 <br>
 Keep It Simple Stupid
