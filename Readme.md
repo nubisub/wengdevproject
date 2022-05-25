@@ -10,6 +10,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [x] CRUD
 - [ ] Minimum 10 dummy data
 - [x] Search + Suggestion
+- [x] SQL injection prevention
 - [ ] W3C Validator
 - [ ] JSHint
 - [x] Homepage
