@@ -29,7 +29,6 @@ session_start();
 
         <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 
-        <title>CookFood: Mau Masak Apa Hari ini</title>
         <link rel="stylesheet" href="styles/homepage.css" />
         <link rel="stylesheet" href="styles/dialogbox.css" />
 
@@ -135,7 +134,7 @@ session_start();
         <?php
 		require 'require/footer.php';
 		?>
-        
+
         <?php
         if(!isset($_SESSION['logintime'])){
             $_SESSION['logintime']=time();
@@ -153,7 +152,7 @@ session_start();
         <?php
             unset($_SESSION['alert']);
             unset($_SESSION['accountcreate']);
-             unset($_SESSION['logout']);
+            unset($_SESSION['logout']);
         ?>
 
     </body>

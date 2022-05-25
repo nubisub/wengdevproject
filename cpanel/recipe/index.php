@@ -14,17 +14,21 @@ session_start();
         <title>CookFood - Explore Recipes</title>
         <link rel="stylesheet" href="../styles/recipe.css">
         <link rel="stylesheet" href="../styles/dialogbox.css" />
-
+        <link rel="stylesheet" href="../styles/searchbar.css" />
+        <script src="../script/searchbar.js"></script>
         <script src="../script/navbar.js"></script>
+
 
         <?php
 		require '../require/favicon.php';
 		require '../require/graphql.php';
 		?>
-		<meta name="twitter:title" content="CookFood - Explore Recipes" />
-<meta property="og:title" content="CookFood - Explore Recipes" />
-<meta property="og:description" content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
-<meta name="twitter:description" content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
+        <meta name="twitter:title" content="CookFood - Explore Recipes" />
+        <meta property="og:title" content="CookFood - Explore Recipes" />
+        <meta property="og:description"
+            content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
+        <meta name="twitter:description"
+            content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
     </head>
 
     <body>
@@ -41,12 +45,15 @@ session_start();
 		?>
 
         <div class="secmain">
+            <?php
+                require '../require/search.php';
+            ?>
             <div class="wilayah">
                 <h1>Our Popular Recipe</h1>
                 <div class="wrapper">
                     <?php
 					require('../php/connect.php');
-                    $sql = "SELECT * FROM recipe";
+                    $sql = "SELECT * FROM recipe WHERE visibility = 1";
 						$stmt = $conn->prepare($sql);
 						$stmt->execute();
 						$result = $stmt->fetchAll();
@@ -165,9 +172,10 @@ session_start();
 		    require '../require/login.php';
         }
         if(isset($_SESSION['alert'])){
-        require '../require/logindialogsuccess.php';
-unset($_SESSION['alert']);
+            require '../require/logindialogsuccess.php';
+            unset($_SESSION['alert']);
         }
+        $conn = null;
 		?>
     </body>
 

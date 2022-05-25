@@ -1,7 +1,20 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![wakatime](https://wakatime.com/badge/github/nubisub/webdevproject.svg)](https://wakatime.com/badge/github/nubisub/webdevproject) bruh
 # [Cookfood : Mau Masak Apa Hari Ini](https://project.nubisub.xyz/)
 
-Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh pengguna. Pembuatan website ini terinspirasi secara tidak sengaja dari [YouTube recomendation](https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd) , tetapi dalam tutorial tersebut menggunakan reactJS dan API dari [Spoonacular](https://spoonacular.com/) sedangkan dalam pembuatan website ini hanya menggunakan HTML, CSS dan JavaScript
+Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh pengguna. Pembuatan website ini terinspirasi secara tidak sengaja dari [YouTube recomendation](https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd) , tetapi dalam tutorial tersebut menggunakan reactJS dan API dari [Spoonacular](https://spoonacular.com/) sedangkan dalam pembuatan website ini menggunakan HTML, CSS, JavaScript, PHP dan penyimpanan database menggunakan MySQL (phpMyAdmin).
+
+## Client Requirement
+
+- [x] No Framework :(
+- [x] CRUD
+- [ ] Minimum 10 dummy data
+- [x] Search + Suggestion
+- [ ] W3C Validator
+- [ ] JSHint
+- [x] Homepage
+- [x] Table
+- [x] Form
 
 ## Menu tersedia (Deadline Pertama)
 
@@ -15,11 +28,13 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 ## Menu tersedia (Deadline Final)
 - [x] Sign in
 - [x] Sign up
-- [x] Create
+- [x] Sign out
+- [x] Create Recipe
 - [x] Read (all or just user's recipe)
-- [ ] Update
-- [x] Delete
-- [ ] Search
+- [X] Update Recipe
+- [x] Delete Recipe
+- [X] Search Recipe with suggestion
+- [X] Visibility Recipe (Public or Private)
 
 
 ## Inspirasi Style & UI/UX
@@ -50,6 +65,14 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - Photoshop
 - [CSS Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
 - [CSS Gradient Background Generator](https://cssgradient.io/)
+- [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)
 - [webp conversion and compression](https://ezgif.com/png-to-webp)
 - [UglifyJS](https://www.npmjs.com/package/uglify-js)
 - [clean-css](https://www.npmjs.com/package/clean-css)
+- [Open Graph Meta Tags Generator](https://www.opengraph.xyz/)
+
+<details open>
+<summary>Made with :kiss: </summary>
+<br>
+Keep It Simple Stupid
+</details>

@@ -85,9 +85,9 @@ for ($i=1; $i < $_POST['jumlahbahan']; $i++) {
       $stmt->execute();
     }
   }
+$conn = null;
 
 header("Location: /recipe/myrecipes/");
-$conn = null;
 // echo "Disconnected successfully";
 
 ?>

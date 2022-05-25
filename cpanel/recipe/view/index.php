@@ -1,25 +1,23 @@
 <?php
 // session
 session_start();
-
-?>
-<!DOCTYPE html>
-<html lang="en">
-    <?php
-
-		try {
+try {
 		require("../../php/connect.php");
 		$id = isset($_GET['id']) ? $_GET['id'] : '';
 		if(empty($id)) {
 			throw new Exception('Error');
+// 			echo 'hello';
 		}
-		$sql = "SELECT * FROM recipe WHERE id = '$id'";
+		$sql = "SELECT * FROM recipe WHERE id = ?";
 		$stmt = $conn->prepare($sql);
+        $stmt->bindParam(1, $id);
+        
 		$stmt->execute();
 		$result = $stmt->fetchAll();
 		// if result is empty
 		if(empty($result)) {
 			throw new Exception('Error');
+// 			echo 'hello';
 		}
 		
 		$sql = "SELECT * FROM bahan WHERE id = '$id'";
@@ -32,19 +30,25 @@ session_start();
 		$langkah->execute();
 		$langkah = $langkah->fetchAll();
 		} catch (\Throwable $th) {
+		  //  echo 'hello1';
+		    header('Location:404.html');
 			// $conn = null;
 			// sanitized data
 			$id = '';
 			$result = '';
 			$bahan = '';
 			$langkah = '';
-			header('Location:404.html');
-			// header('Location: http://www.example.com/');
-			// $conn = null;
-			// echo $th->getMessage();
+
 		}
 
 		
+		
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+    <?php
+
 		
 		
 		
@@ -70,19 +74,19 @@ session_start();
 		require '../../require/favicon.php';
 		require '../../require/graphql.php';
 		?>
-		<meta name="twitter:title" content="<?php
+        <meta name="twitter:title" content="<?php
 		    echo $result[0]['nama'];
 		?>" />
-<meta property="og:title" content="<?php
+        <meta property="og:title" content="<?php
 		    echo $result[0]['nama'];
 		?>" />
-<meta property="og:description" content="<?php
+        <meta property="og:description" content="<?php
 		    echo $result[0]['deskripsi'];
 		?>" />
-<meta name="twitter:description" content="<?php
+        <meta name="twitter:description" content="<?php
 		    echo $result[0]['deskripsi'];
 		?>" />
-		
+
     </head>
 
 

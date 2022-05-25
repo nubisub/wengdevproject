@@ -15,17 +15,22 @@ if(!isset($_SESSION['username'])){
         <meta name="description" content="Cari resep">
         <title>CookFood - Explore Recipes</title>
         <link rel="stylesheet" href="../../styles/recipe.css">
+        <link rel="stylesheet" href="../../styles/searchbar.css">
 
+
+        <script src="../../script/mysearchbar.js"></script>
         <script src="../../script/navbar.js"></script>
 
         <?php
 		require '../../require/favicon.php';
 		require '../../require/graphql.php';
 		?>
-		<meta name="twitter:title" content="CookFood - Explore Recipes" />
-<meta property="og:title" content="CookFood - Explore Recipes" />
-<meta property="og:description" content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
-<meta name="twitter:description" content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
+        <meta name="twitter:title" content="CookFood - Explore Recipes" />
+        <meta property="og:title" content="CookFood - Explore Recipes" />
+        <meta property="og:description"
+            content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
+        <meta name="twitter:description"
+            content="Mau masak apa hari ini ? temukan resep populer dan mudah dimasak di CookFood" />
     </head>
 
     <body>
@@ -42,14 +47,18 @@ if(!isset($_SESSION['username'])){
 		?>
 
         <div class="secmain">
+            <?
+            require '../../require/search.php';
+            ?>
             <div class="wilayah">
                 <h1>My Recipe</h1>
                 <div class="wrapper">
                     <?php
 					require('../../php/connect.php');
-                    $sql = "SELECT * FROM recipe WHERE username = '$_SESSION[username]'";
+                    $sql = "SELECT * FROM recipe WHERE username = ?";
 						$stmt = $conn->prepare($sql);
-						$stmt->execute();
+                        $stmt->bindparam(1, $_SESSION['username']);
+                        $stmt->execute();
 						$result = $stmt->fetchAll();
 					// echo $result[0]['recipe_name'];
 					foreach ($result as $row) {
@@ -164,6 +173,7 @@ if(!isset($_SESSION['username'])){
         <?php
         if(!isset($_SESSION['username'])){
 		    require '../../require/login.php';
+            $conn = null;
         }
 		?>
     </body>

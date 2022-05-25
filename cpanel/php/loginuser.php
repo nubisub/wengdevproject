@@ -4,9 +4,10 @@
     isset($_POST['username']) ? $username = $_POST['username'] : $username = '';
     isset($_POST['password']) ? $password = $_POST['password'] : $password = '';
 
-    // if username and password
-        $sql = "SELECT * FROM login WHERE username = '$username' AND password = '$password'";
+        $sql = "SELECT * FROM login WHERE username = ? AND password = ?";
         $stmt = $conn->prepare($sql);
+        $stmt->bindParam(1, $username);
+        $stmt->bindParam(2, $password);
         $stmt->execute();
         $result = $stmt->fetchAll();
         $count = $stmt->rowCount();
@@ -17,18 +18,15 @@
             $_SESSION['alert'] = "loginsuccess";
             $_SESSION['logintime'] = time();
             $_COOKIE['username'] = $username;
-            // make cookie password md5
             $_COOKIE['password'] = md5($password);
-            // header("Location: ../");
+            $conn = null;
             header('Location: ' . $_SERVER['HTTP_REFERER']);
         } else {
-            // not in database
-            // header("Location: index.php");
-            // redirect to index an alert
             $_SESSION['usernametemplogin'] = $username;
             $_SESSION['passwordtemplogin'] = $password;
             $_SESSION['timeregisterlogin'] = time();
             $_SESSION['loginunsuccess'] = true;
+            $conn = null;
             header("Location: ../signin");
         }
         

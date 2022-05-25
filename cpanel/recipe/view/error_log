@@ -98,3 +98,627 @@
 [15-May-2022 20:27:22 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
 [15-May-2022 20:27:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 135
 [15-May-2022 20:27:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 170
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 41
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 60
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 74
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 108
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 115
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 135
+[20-May-2022 17:33:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 170
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:34:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:35:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 14
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:35:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:38:23 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:39:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:39:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:40:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 42
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 61
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 75
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 109
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 116
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 122
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 136
+[20-May-2022 17:40:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 171
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 62
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 76
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 79
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 82
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 85
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 110
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 117
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 123
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 137
+[20-May-2022 17:41:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 172
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 62
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 76
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 79
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 82
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 85
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 110
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 117
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 123
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 137
+[20-May-2022 17:41:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 172
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 62
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 76
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 79
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 82
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 85
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 110
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 117
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 123
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 137
+[20-May-2022 17:42:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 172
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:43:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:43:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:43:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:43:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:43:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:44:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:44:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:44:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:45:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:45:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:45:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:45:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:45:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:46:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:46:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:46:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:46:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:46:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:46:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 45
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:47:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 43
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 45
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 63
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 77
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 111
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 118
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 124
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 138
+[20-May-2022 17:47:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 173
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 37
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 64
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 87
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 112
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 119
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 125
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 139
+[20-May-2022 17:48:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 174
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 37
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 64
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 87
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 112
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 119
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 125
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 139
+[20-May-2022 17:49:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 174
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/project/recipe/view/index.php:6) in /home/nubc3594/public_html/project/recipe/view/index.php on line 37
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 64
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 78
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 81
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 84
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 87
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 112
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 119
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 125
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 139
+[20-May-2022 17:49:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 174
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 65
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 79
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 82
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 85
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 88
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 113
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 120
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 126
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 140
+[20-May-2022 17:49:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 175
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:50:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:51:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 17:55:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 66
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 80
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 83
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 86
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 89
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'nama' in /home/nubc3594/public_html/project/recipe/view/index.php on line 114
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'deskripsi' in /home/nubc3594/public_html/project/recipe/view/index.php on line 121
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Illegal string offset 'foto' in /home/nubc3594/public_html/project/recipe/view/index.php on line 127
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 141
+[20-May-2022 18:41:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/nubc3594/public_html/project/recipe/view/index.php on line 176

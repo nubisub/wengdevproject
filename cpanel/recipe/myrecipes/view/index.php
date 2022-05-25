@@ -3,20 +3,17 @@ session_start();
 if(!isset($_SESSION['username'])){
 	header("Location: ../../../signin");
 }
-?>
-<!DOCTYPE html>
-<html lang="en">
-    <?php
-
-		try {
+	try {
 		require("../../../php/connect.php");
 		$id = isset($_GET['id']) ? $_GET['id'] : '';
 		if(empty($id)) {
 			throw new Exception('Error');
 		}
 		$_SESSION['id_delete'] = $id;
-		$sql = "SELECT * FROM recipe WHERE id = '$id'";
+		$sql = "SELECT * FROM recipe WHERE id = ?";
 		$stmt = $conn->prepare($sql);
+        $stmt->bindparam(1, $id);
+        
 		$stmt->execute();
 		$result = $stmt->fetchAll();
 		// if result is empty
@@ -24,27 +21,37 @@ if(!isset($_SESSION['username'])){
 			throw new Exception('Error');
 		}
 		
-		$sql = "SELECT * FROM bahan WHERE id = '$id'";
+		$sql = "SELECT * FROM bahan WHERE id = ?";
 		$bahan = $conn->prepare($sql);
+        $bahan->bindparam(1, $id);
 		$bahan->execute();
 		$bahan = $bahan->fetchAll();
 		
-		$sql = "SELECT * FROM langkah WHERE id = '$id'";
+		$sql = "SELECT * FROM langkah WHERE id = ?";
 		$langkah = $conn->prepare($sql);
+        $langkah->bindparam(1, $id);
 		$langkah->execute();
 		$langkah = $langkah->fetchAll();
 		} catch (\Throwable $th) {
+		    header('Location:404.html');
 			// $conn = null;
 			// sanitized data
 			$id = '';
 			$result = '';
 			$bahan = '';
 			$langkah = '';
-			header('Location:404.html');
+			
 			// header('Location: http://www.example.com/');
 			// $conn = null;
 			// echo $th->getMessage();
 		}
+
+		
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+    <?php
 
 		
 		
@@ -64,6 +71,8 @@ if(!isset($_SESSION['username'])){
         </title>
         <link rel="stylesheet" href="/styles/view.css">
         <link rel="stylesheet" href="config.css">
+        <script src="visibility/visibility.js"></script>
+
         <script src="/script/view.js"></script>
 
         <script src="/script/navbar.js"></script>
@@ -72,19 +81,19 @@ if(!isset($_SESSION['username'])){
 		require '../../../require/favicon.php';
 		require '../../../require/graphql.php';
 		?>
-		<meta name="twitter:title" content="<?php
+        <meta name="twitter:title" content="<?php
 		    echo $result[0]['nama'];
 		?>" />
-<meta property="og:title" content="<?php
+        <meta property="og:title" content="<?php
 		    echo $result[0]['nama'];
 		?>" />
-<meta property="og:description" content="<?php
+        <meta property="og:description" content="<?php
 		    echo $result[0]['deskripsi'];
 		?>" />
-<meta name="twitter:description" content="<?php
+        <meta name="twitter:description" content="<?php
 		    echo $result[0]['deskripsi'];
 		?>" />
-		
+
     </head>
 
 
@@ -93,7 +102,12 @@ if(!isset($_SESSION['username'])){
         checkCookie();
         </script>
         <?php
+			if(isset($_SESSION['username'])){
+			require '../../../require/navbarlogin.php';
+                
+            }else{
 			require '../../../require/navbar.php';
+            }
 		?>
 
         <div class="wrapperview">
@@ -200,7 +214,11 @@ if(!isset($_SESSION['username'])){
         }
 		?>
         <?php
-        require 'config.php';
+        if ($result[0]['visibility'] == 0){
+            require 'confignotvisible.php'; 
+        } else{
+            require 'config.php';
+        }
         ?>
     </body>
 
