@@ -1,0 +1,382 @@
+[30-Apr-2022 18:53:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 21:03:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 21:11:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:01:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:37) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:02:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:37) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:02:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:34) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:02:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:37) in /home/nubc3594/public_html/create/create.php on line 90
+[30-Apr-2022 22:14:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nubc3594/public_html/create/create.php:36) in /home/nubc3594/public_html/create/create.php on line 89
+[14-May-2022 18:37:42 Asia/Jakarta] PHP Warning:  require(../favicon.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:37:42 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../favicon.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:37:52 Asia/Jakarta] PHP Warning:  require(../favicon.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:37:52 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../favicon.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/create/index.php on line 17
+[14-May-2022 18:55:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(foto/627f989e5a837.png): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/php/create.php on line 33
+[14-May-2022 18:55:10 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdyJFBZ' to 'foto/627f989e5a837.png' in /home/nubc3594/public_html/project/php/create.php on line 33
+[14-May-2022 19:10:16 Asia/Jakarta] PHP Warning:  require(create/connect.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/php/loginuser.php on line 2
+[14-May-2022 19:10:16 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/php/loginuser.php on line 2
+[14-May-2022 21:00:45 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'field list' in /home/nubc3594/public_html/project/php/create.php:51
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/create.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/create.php on line 51
+[14-May-2022 21:03:59 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/nubc3594/public_html/project/php/create.php:51
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/create.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/create.php on line 51
+[14-May-2022 21:04:20 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/nubc3594/public_html/project/php/create.php:51
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/create.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/create.php on line 51
+[18-May-2022 21:19:46 Asia/Jakarta] PHP Warning:  require(../create/connect.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/php/suggestion.php on line 2
+[18-May-2022 21:19:46 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/php/suggestion.php on line 2
+[18-May-2022 21:20:17 Asia/Jakarta] PHP Warning:  require(../create/connect.php): failed to open stream: No such file or directory in /home/nubc3594/public_html/project/php/suggestion.php on line 2
+[18-May-2022 21:20:17 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../create/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/nubc3594/public_html/project/php/suggestion.php on line 2
+[25-May-2022 13:33:13 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:17 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:19 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:25 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:26 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:34 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:38 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:43 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:45 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:33:48 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:08 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:10 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:11 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:12 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:22 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:28 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:36 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:34:37 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:02 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:04 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:06 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:09 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:09 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:11 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:13 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:14 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:15 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:35:23 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:45:19 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usernama' in 'where clause' in /home/nubc3594/public_html/project/php/suggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 12
+[25-May-2022 13:45:21 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usernama' in 'where clause' in /home/nubc3594/public_html/project/php/suggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 12
+[25-May-2022 13:45:25 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usernama' in 'where clause' in /home/nubc3594/public_html/project/php/suggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 12
+[25-May-2022 13:45:27 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usernama' in 'where clause' in /home/nubc3594/public_html/project/php/suggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 12
+[25-May-2022 13:45:29 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usernama' in 'where clause' in /home/nubc3594/public_html/project/php/suggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 12
+[25-May-2022 13:45:45 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:45:48 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:45:51 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:46:03 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:46:04 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:46:07 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:46:11 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:46:12 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:46:13 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1 in /home/nubc3594/public_html/project/php/suggestion.php:11
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/suggestion.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/suggestion.php on line 11
+[25-May-2022 13:52:54 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:16 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:17 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:18 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:20 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:22 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:24 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:31 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:31 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:33 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:33 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 13:53:34 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usrname' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:12
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 12
+[25-May-2022 14:03:57 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:03:59 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:01 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:04 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:06 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:09 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:13 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:14 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:15 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:19 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:21 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:04:22 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nubc3594/public_html/project/php/mysuggestion.php:13
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 13
+[25-May-2022 14:12:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nubc3594/public_html/project/php/mysuggestion.php on line 11
+[25-May-2022 14:12:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nubc3594/public_html/project/php/mysuggestion.php on line 11
+[25-May-2022 14:12:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nubc3594/public_html/project/php/mysuggestion.php on line 11
+[25-May-2022 14:12:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nubc3594/public_html/project/php/mysuggestion.php on line 11
+[25-May-2022 14:12:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nubc3594/public_html/project/php/mysuggestion.php on line 11
+[25-May-2022 14:22:10 Asia/Jakarta] PHP Warning:  Use of undefined constant coba - assumed 'coba' (this will throw an Error in a future version of PHP) in /home/nubc3594/public_html/project/php/mysuggestion.php on line 10
+[25-May-2022 14:22:11 Asia/Jakarta] PHP Warning:  Use of undefined constant coba - assumed 'coba' (this will throw an Error in a future version of PHP) in /home/nubc3594/public_html/project/php/mysuggestion.php on line 10
+[03-Jun-2022 19:59:10 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'aku' in 'where clause' in /home/nubc3594/public_html/project/php/mysuggestion.php:15
+Stack trace:
+#0 /home/nubc3594/public_html/project/php/mysuggestion.php(15): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nubc3594/public_html/project/php/mysuggestion.php on line 15
