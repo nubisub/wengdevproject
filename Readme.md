@@ -33,6 +33,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [x] Pricing
 - [x] Login & Signup Page
 - [x] Dark Mode
+- [x] Open Graph Protocol
 
 ## Menu tersedia (Deadline Final)
 - [x] Sign in
@@ -42,9 +43,8 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [x] Read (all or just user's recipe)
 - [X] Update Recipe
 - [x] Delete Recipe
-- [X] Search Recipe with suggestion
+- [X] Search Recipe with suggestion, with debounce
 - [X] Visibility Recipe (Public or Private)
-
 
 ## Inspirasi Style & UI/UX
 
@@ -69,7 +69,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [Font Awesome](https://fontawesome.com/)
 - [Favicon Generator](https://www.favicon-generator.org/)
 
-## Tools Design
+## Tools & Design
 
 - Photoshop
 - [CSS Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
@@ -79,6 +79,19 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [UglifyJS](https://www.npmjs.com/package/uglify-js)
 - [clean-css](https://www.npmjs.com/package/clean-css)
 - [Open Graph Meta Tags Generator](https://www.opengraph.xyz/)
+
+## Dokumentasi
+![Home Page](dokumentasi/Web%20capture_8-6-2022_231220.jpeg)
+
+![Pricing](dokumentasi/Web%20capture_8-6-2022_231229.jpeg)
+
+![Create Recipe](dokumentasi/Screenshot_3312.png)
+
+![Menu Recipe](dokumentasi/Web%20capture_8-6-2022_23106.jpeg)
+
+![Login](dokumentasi/Screenshot_331.png)
+
+
 
 <details>
 <summary>Made with :kiss: </summary>
