@@ -10,22 +10,22 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh pengguna. Pembuatan website ini terinspirasi secara tidak sengaja dari [YouTube recomendation](https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd) , tetapi dalam tutorial tersebut menggunakan reactJS dan API dari [Spoonacular](https://spoonacular.com/) sedangkan dalam pembuatan website ini menggunakan HTML, CSS, JavaScript, PHP dan penyimpanan database menggunakan MySQL (phpMyAdmin).
+CookFood merupakan website untuk menyimpan dan membagikan resep makanan atau minuman yang dibuat oleh pengguna. Pembuatan website ini terinspirasi secara tidak sengaja dari [YouTube recomendation](https://www.youtube.com/watch?v=xc4uOzlndAk&ab_channel=DevEd) , tetapi dalam tutorial tersebut menggunakan reactJS dan API dari [Spoonacular](https://spoonacular.com/) sedangkan dalam pembuatan website ini menggunakan HTML, CSS, JavaScript, PHP dan penyimpanan database menggunakan MySQL (phpMyAdmin).
 
 ## Client Requirement
 
 - [x] No Framework :(
 - [x] CRUD
-- [ ] Minimum 10 dummy data
+- [x] Minimum 10 dummy data
 - [x] Search + Suggestion
 - [x] SQL injection prevention
-- [ ] W3C Validator
-- [ ] JSHint
+- [x] W3C Validator
+- [x] JSHint
 - [x] Homepage
 - [x] Table
 - [x] Form
 
-## Menu tersedia (Deadline Pertama)
+## Menu/Fitur tersedia (Deadline Pertama)
 
 - [x] Home Page
 - [x] Write Recipe
@@ -35,7 +35,7 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 - [x] Dark Mode
 - [x] Open Graph Protocol
 
-## Menu tersedia (Deadline Final)
+## Menu/Fitur tersedia (Deadline Final)
 - [x] Sign in
 - [x] Sign up
 - [x] Sign out
@@ -88,6 +88,8 @@ Website ini merupakan website untuk menyimpan dan membagikan resep makanan atau 
 ![Create Recipe](dokumentasi/Screenshot_3312.png)
 
 ![Menu Recipe](dokumentasi/Web%20capture_8-6-2022_23106.jpeg)
+
+![View Recipe](dokumentasi/Web%20capture_8-6-2022_23148.jpeg)
 
 ![Login](dokumentasi/Screenshot_331.png)
 
